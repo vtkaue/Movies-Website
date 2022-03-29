@@ -2,7 +2,7 @@
 
 A responsive movie site in HTML, CSS and JavaScript. It contains, Responsive Menu, Slider House, Movie Sections, Coming Soon Movie Box and Footer.
 
-> see the project :
+> see the project : https://vtkaue.github.io/Movies-Website/
 
 <br>
 
